@@ -8,3 +8,7 @@
 ## 1.2 Cloning the Repository
 
 - https://github.com/shawnesquivel/openai-javascript-course.git
+
+- npm i
+
+- memory page
