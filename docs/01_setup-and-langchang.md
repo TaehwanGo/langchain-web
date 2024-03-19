@@ -12,3 +12,17 @@
 - npm i
 
 - memory page
+
+## 1.3 ~ 1.4 Extensions to Make Life Easier
+
+- VSCode Extensions
+
+  - Prettier
+  - Tailwind CSS IntelliSense
+  - ES7+ React/Redux/React-Native snippets(dsznajder)
+    - 'rfce': react functional component
+
+- terminal
+  - oh my zsh
+- browser
+  - react developer tools
