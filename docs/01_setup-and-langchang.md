@@ -30,3 +30,9 @@
 ## 1.5 Troubleshooting Guide
 
 - https://js.langchain.com/docs/get_started
+
+## 1.6 ~ 1.7 API Keys Needed
+
+- https://platform.openai.com/api-keys
+- https://www.pinecone.io/
+- https://serpapi.com/
