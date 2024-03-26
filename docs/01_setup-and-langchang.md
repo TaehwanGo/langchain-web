@@ -36,3 +36,5 @@
 - https://platform.openai.com/api-keys
 - https://www.pinecone.io/
 - https://serpapi.com/
+
+## 1.8. Setting API Keys In Terminal
